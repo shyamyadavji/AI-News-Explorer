@@ -1,0 +1,17 @@
+# Ignore the file containing secret keys
+.env
+
+# Ignore Python's cache folder
+__pycache__/
+
+# Ignore common virtual environment folders
+# (Anaconda environments are usually managed globally, but this is good practice)
+venv/
+env/
+.venv/
+ENV/
+
+# Ignore IDE and system-specific files
+.idea/
+.vscode/
+.DS_Store
