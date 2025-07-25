@@ -1,6 +1,7 @@
 # AI News Explorer 📰✨
 
 ![AI News Explorer Demo](assets/AI-ezgif.com-video-to-gif.gif)
+
 *A desktop application for focused, intelligent news consumption, powered by local AI.*
 
 ---
